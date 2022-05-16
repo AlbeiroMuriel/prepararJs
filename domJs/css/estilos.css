@@ -1,0 +1,12 @@
+/* . para clases
+   # para ID */
+
+#titulo1{
+    text-align: center;
+    color: blue;
+}
+
+#idom{
+    width: 300px;
+    height: 300px;
+}

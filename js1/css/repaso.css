@@ -1,0 +1,48 @@
+#contenedor1, #contenedor2{    
+    width: 40%;
+    background-color: aquamarine;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 25px;
+}
+
+#contenedor2{    
+    width: 60%;
+    background-color: darkkhaki;
+}
+
+section{
+    display: block;
+}
+
+/* body{
+    background-color: steelblue;
+}
+
+#P1, #P2, P{
+    font-size: 48px;
+    color: coral;
+}
+
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 32px;
+}
+
+.R1{
+    background-color: aqua;
+    color: red;
+}
+
+#P2{
+    text-align: left;
+
+} */
+
+/* clases----- colocar formatos a varias etiquetas (.nombreClase)
+   identificadores -- colocar formato a una etiqueta en particular
+   (#NombreId
+*/
+
+
