@@ -19,3 +19,4 @@ Clonar el repositorio
     git pull origin master
     
 
+    hago cambios de prueba.... se deben reflejar en git
