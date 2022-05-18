@@ -1,1 +1,21 @@
-archivo de prueba
+Clonar el repositorio
+    git remote add origin master y pegar el enlace del github
+
+    ENVIAR A github
+
+    git push origin main
+
+    EN CASO DE QUE LOS ARCHIVOS NO COINCIDAN
+    git pull origin main
+
+    y si sale error FATAL
+
+    git pull origin main --all-unrelated-histories
+
+    y luego git pull origin main
+
+
+    Si realizo cambios en github, no se veran los cambios reflejados, entonces necesitamos
+    git pull origin master
+    
+
